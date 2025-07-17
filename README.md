@@ -21,6 +21,12 @@ Disclaimer: I am NOT a licensed doctor or nutritionist. This book is NOT medical
 
 ---
 
+# Recreation
+
+[Vaping is Deadly](src/recreation/vaping_is_deadly.md)  
+
+---
+
 //----//
 
 // Dedicated to God the Father  
