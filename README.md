@@ -3,7 +3,7 @@ What can humans do to be safer in such a dangerous world? Let us examine many po
 
 ---
 
-Disclaimer: I am NOT a licensed doctor or nutritionist. This book is NOT medical advice. This book is for entertainment purposes only.
+Disclaimer: I am NOT a licensed doctor or nutritionist. This book is NOT medical advice. This book is NOT nutrition advice. This book is for entertainment purposes only.
 
 ---
 
