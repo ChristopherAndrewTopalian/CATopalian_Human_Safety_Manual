@@ -35,7 +35,9 @@ Disclaimer: I am NOT a licensed doctor or nutritionist. This book is NOT medical
 
 [Guardrails in USA Should Be Replaced](src/transportation/guardrails_in_usa_should_be_replaced.md)  
 
-[Electric Vehicle Battery Roof Placement](src/transportation/electric_vehicles/electric_vehicle_battery_roof_placement.md)  
+[Electric Vehicle Battery Roof Placement - a](src/transportation/electric_vehicles/electric_vehicle_battery_roof_placement_a.md)  
+
+[Electric Vehicle Battery Roof Placement - b](src/transportation/electric_vehicles/electric_vehicle_battery_roof_placement_b.md)  
 
 ---
 
