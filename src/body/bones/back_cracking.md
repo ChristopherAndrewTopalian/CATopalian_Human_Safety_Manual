@@ -2,7 +2,7 @@
 
 # DANGER!
 
-1. The plastic machines on the inernet that have a giant arc are designed to harm the human's spine, by causing slipped discs.
+1. The plastic machines on the inernet that have a giant arch are designed to harm the human's spine, by causing slipped discs.
 NEVER USE ANY ARCHES NEAR YOUR SPINE!
 
 # What to do?
