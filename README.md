@@ -49,7 +49,7 @@ Disclaimer: I am NOT a licensed doctor or nutritionist. This book is NOT medical
 # Animals
 
 ## Feral Kittens
-[Rescuing Feral Kittens Using Cat Language Audio](src/animals/feral_cats/rescuing_feral_kittens_using_cat_language_audio.md)
+[Rescuing Feral Kittens Using Cat Language Audio](src/animals/feral_cats/kittens/rescue/rescuing_feral_kittens_using_cat_language_audio.md)
 
 
 //----//
