@@ -46,6 +46,11 @@ Disclaimer: I am NOT a licensed doctor or nutritionist. This book is NOT medical
 ## Bones
 [Back Cracking](src/body/bones/back_cracking.md)  
 
+# Animals
+
+## Feral Kittens
+[Rescuing Feral Kittens Using Cat Language Audio](src/animals/feral_cats/rescuing_feral_kittens_using_cat_language_audio.md)
+
 
 //----//
 
