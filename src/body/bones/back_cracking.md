@@ -26,6 +26,8 @@ I am simply telling you a way that I have used to crack my own back.
 # Jeans as a Rope
 I recently tried the Jeans behind my spine as a rope while twisting and what good success! A solid crack in a place I surely was wanting to crack for years!
 
+---
+
 //----//
 
 // Dedicated to God the Father  
