@@ -7,7 +7,7 @@ With that warning being said: I have an idea for a 1 million Lumen flash light t
 I expect the chamber to heat up very quickly, possibly to over 1,000f.
 
 The DANGERS:
-* The Chamber has to 100% closed to prevent light from escaping, or else if any light was visible it would risk permanet eye injury from ANY ANGLE!
+* The Chamber has to 100% closed to prevent light from escaping, or else if any light was visible it would risk permanent eye injury from ANY ANGLE!
 
 * HEAT: If the heat is not correctly planned for, that 1,000f metal might be a danger to anyone who isn't accounted for!
 
