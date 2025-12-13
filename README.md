@@ -51,6 +51,13 @@ Disclaimer: I am NOT a licensed doctor or nutritionist. This book is NOT medical
 ## Feral Kittens
 [Rescuing Feral Kittens Using Cat Language Audio](src/animals/feral_cats/kittens/rescue/rescuing_feral_kittens_using_cat_language_audio.md)
 
+---
+
+# Shelter
+
+# Heating
+
+## [Flash Light Heater](src/shelter/heating/flash_light_heater/flash_light_heater.md)
 
 //----//
 
