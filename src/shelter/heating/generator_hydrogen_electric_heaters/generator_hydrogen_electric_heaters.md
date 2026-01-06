@@ -10,6 +10,10 @@ The concept that I am exploring is the theoretical use of Hydrogen from water ha
 
 In this way I can generate 7000 watts easily and plug Electric space heaters directly into the generator and keep the house heated!
 
+--- 
+
+After much research, it seems the generators would not work for long term use, because they would burn out too quickly even with normal fuels used, if used full time.
+
 //----//
 
 // Dedicated to God the Father  
