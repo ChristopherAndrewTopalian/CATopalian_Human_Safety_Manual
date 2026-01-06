@@ -57,6 +57,8 @@ Disclaimer: I am NOT a licensed doctor or nutritionist. This book is NOT medical
 
 # Heating
 
+## [Generators Powered by Hydrogen from Water](src/shelter/heating/generator_hydrogen_electric_heaters/generator_hydrogen_electric_heaters.md)
+
 ## [Flash Light Heater](src/shelter/heating/flash_light_heater/flash_light_heater.md)
 
 //----//
