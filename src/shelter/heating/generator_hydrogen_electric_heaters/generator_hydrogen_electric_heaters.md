@@ -6,7 +6,7 @@ WARNING: Do not do this experiment for it might result in serious injury or deat
 
 ---
 
-The concept that I am exploring is the theoretical use of Hydrogen from water to power Electric Generators outside of the home.
+The concept that I am exploring is the theoretical use of Hydrogen from water harvested using Batteries charged using Solar panels to power an Electric Generator outside of the home.
 
 In this way I can generate 7000 watts easily and plug Electric space heaters directly into the generator and keep the house heated!
 
