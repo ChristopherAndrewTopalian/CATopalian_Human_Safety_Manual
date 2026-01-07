@@ -57,14 +57,18 @@ Disclaimer: I am NOT a licensed doctor or nutritionist. This book is NOT medical
 
 # Heating
 
+## [Hydrogen Powered Thermal Draft Turbine](src/shelter/heating/hydrogen_powered_thermal_draft_turbine/hydrogen_powered_thermal_draft_turbine.md)
+
 ## [Generators Powered by Hydrogen from Water](src/shelter/heating/generator_hydrogen_electric_heaters/generator_hydrogen_electric_heaters.md)
 
 ## [Flash Light Heater](src/shelter/heating/flash_light_heater/flash_light_heater.md)
 
+---
+
 //----//
 
 // Dedicated to God the Father  
-// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2025  
+// All Rights Reserved Christopher Andrew Topalian Copyright 2000-2026  
 // https://github.com/ChristopherTopalian  
 // https://github.com/ChristopherAndrewTopalian  
 // https://sites.google.com/view/CollegeOfScripting
