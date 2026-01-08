@@ -14,6 +14,8 @@
 
 [toroidal_vortex_coil_006](toroidal_vortex_coil_006.md)
 
+[toroidal_vortex_coil_007](toroidal_vortex_coil_007.md)
+
 ---
 
 //----//
