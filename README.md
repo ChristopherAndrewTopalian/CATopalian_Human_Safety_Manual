@@ -19,6 +19,9 @@ Disclaimer: I am NOT a licensed doctor or nutritionist. This book is NOT medical
 
 [Alcohol is Poison](src/drink/alcohol_is_poison.md)  
 
+[Energy Drinks are Toxic to Hearts](src/drink/energy_drink_induced_cardiotoxicity.md)  
+
+
 ---
 
 # Recreation
