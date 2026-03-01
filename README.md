@@ -66,6 +66,8 @@ Disclaimer: I am NOT a licensed doctor or nutritionist. This book is NOT medical
 
 # Heating
 
+## [Knotweed Biomass Heating](src/shelter/heating/knotweed_biomass_heating/knotweed_biomass_heating_001.md)
+
 ## [Hydrogen Powered Thermal Draft Turbine](src/shelter/heating/hydrogen_powered_thermal_draft_turbine/hydrogen_powered_thermal_draft_turbine.md)
 
 ## [Generators Powered by Hydrogen from Water](src/shelter/heating/generator_hydrogen_electric_heaters/generator_hydrogen_electric_heaters.md)
