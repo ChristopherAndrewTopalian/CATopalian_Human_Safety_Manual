@@ -51,6 +51,10 @@ Disclaimer: I am NOT a licensed doctor or nutritionist. This book is NOT medical
 
 # Animals
 
+# Cats
+
+[Knotweed Zero Cost Cat Litter](src/animals/cats/litter/knotweed_zero_cost_cat_litter/knotweed_zero_cost_cat_litter_001.md)
+
 ## Feral Kittens
 [Rescuing Feral Kittens Using Cat Language Audio](src/animals/feral_cats/kittens/rescue/rescuing_feral_kittens_using_cat_language_audio.md)
 
